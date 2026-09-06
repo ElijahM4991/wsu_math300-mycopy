@@ -5,7 +5,6 @@ This assumes you have VS Code installed, with this file open in it.
  
 1. Open a terminal inside VS Code:
        - Menu bar: Terminal > New Terminal
-       - or keyboard shortcut: Ctrl + ` (backtick) on Windows/Linux, Cmd + ` on Mac
  
 2. (Windows only) VS Code's default terminal is PowerShell, but we want Bash:
        - Click the small dropdown arrow next to the "+" in the top-right of the
